@@ -12,7 +12,7 @@
                     "localPath": "./",
                     "uploadType": "image",
                     "imageInfo": {
-                        "imageUrl": "ccr.ccs.tencentyun.com/discuzq/dzq-no-db:latest"
+                        "imageUrl": "ccr.ccs.tencentyun.com/tcb-53623075-bkfo/discuzq:v1.0.1"
                     },
                     "containerPort": 80,
                     "customLogs": "stdout,/dev/stdout,/dev/stderr",
